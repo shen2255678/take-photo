@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnsend" type="id" />
+    <item name="editText" type="id" />
+    <item name="editText2" type="id" />
+    <item name="btnchoose" type="id" />
+    <item name="btnupload" type="id" />
+    <item name="imgview" type="id" />
+</resources>
